@@ -17,3 +17,4 @@ class Solution(object):
          self.generateParenthesisUtil(left, right-1, temp + ')', result)
 ob = Solution()
 print(ob.generateParenthesis(3))
+ 
