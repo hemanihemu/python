@@ -32,3 +32,14 @@ CSA0838 phthon programming
 8.program for anagram
 9.program for regular expression
 10.program for string operations
+(DAY "4" PROGRMAS)
+1.program for string array
+2.program for student users
+3.program for smaller current number
+4.program for vaild palindrome
+5.program for minimum jumps 
+6.program for deleting occurrences
+7.program for vowel string
+8.program for roman to integer
+9.program for year seasons
+10.program for scramble string
