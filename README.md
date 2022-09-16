@@ -43,3 +43,14 @@ CSA0838 phthon programming
 8.program for roman to integer
 9.program for year seasons
 10.program for scramble string
+(DAY "5" PROGRMAS)
+1.program for words and spaces
+2.program for salary employees
+3.program for perfect square numbers
+4.program for mathematics yeah,nah
+5.program for peak element
+6.program for triangular array
+7.program for repeating characters
+8.program for matrix of size
+9.program for shuffle function 
+10.program for non space characters
